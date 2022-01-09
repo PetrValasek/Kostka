@@ -1,0 +1,17 @@
+h1 {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+body {
+    background-image: url("../img/kasino.jpg");
+    background-repeat: no-repeat;
+    background-size: 128%;
+   }
+header {
+    margin-bottom: 11cm;
+}
+main {
+    color: black;
+    font-weight: bold;
+}
